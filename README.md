@@ -1,1 +1,1 @@
-# TypeScript_function
+# TypeScript_function（関数型）
